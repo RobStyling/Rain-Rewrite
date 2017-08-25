@@ -1,0 +1,22 @@
+{
+  "name": "rain-rewrite",
+  "version": "1.0.0",
+  "description": "The Rainbot Rewrite",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RobStyling/Rain-Rewrite.git"
+  },
+  "keywords": [
+    "discord-js"
+  ],
+  "author": "Rob",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RobStyling/Rain-Rewrite/issues"
+  },
+  "homepage": "https://github.com/RobStyling/Rain-Rewrite#readme"
+}
